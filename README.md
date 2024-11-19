@@ -1,6 +1,8 @@
 # ScreenMatch: Tu Sistema de Recomendación de Películas creado con la inmersión de Alura
 
-<<<>>>
+## Imagen demostrativa de la consola
+
+![](https://github.com/tavooshhnn/inmersion-sm/blob/aula01/capture_241118_210054.jpg)
 
 Este proyecto es una aplicación Java que simula un sistema de recomendación de películas, similar a los que encuentras en plataformas de streaming. 
 
